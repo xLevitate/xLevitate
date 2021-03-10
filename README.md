@@ -8,7 +8,7 @@
 - 🎓 &nbsp; Learning more through online courses.
 - 💼 &nbsp; Working as a freelance developer making java plugins and servers.
 - 🌱 &nbsp; Learning more about databases such as MySQL and MongoDB.
-- 
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
