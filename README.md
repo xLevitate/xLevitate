@@ -13,5 +13,5 @@ Discord — Levitate#3657
 
 &nbsp;
 <br>
-“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” — Bill Gates
+*“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” — Bill Gates*
 <br>
