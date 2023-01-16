@@ -13,6 +13,7 @@ Discord — Levitate#3657
 
 <h3> • Current Positions </h3>
 Plugin Developer @ Lockdown Prison
+Owner @ Prime Lifesteal
 
 &nbsp;
 <br>
