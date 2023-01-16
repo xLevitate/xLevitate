@@ -11,6 +11,9 @@ A 16 year old C++, Java and JavaScript developer, with experience in many other 
 <h3> • Contact Me </h3>
 Discord — Levitate#3657
 
+<h3> • Current Jobs </h3>
+Plugin Developer @ Lockdown Prison
+
 &nbsp;
 <br>
 *“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” — Bill Gates*
