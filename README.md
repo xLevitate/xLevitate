@@ -9,7 +9,7 @@ A 16 year old C++, Java and JavaScript developer, with experience in many other 
 ![](https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,bootstrap,mongodb,mysql,sqlite,git,github,rust,tailwindcss,vuejs&perline=6)
 
 <h3> • Contact Me </h3>
-Discord — Levitate#3657
+Discord — Levitate#4771
 
 <h3> • Current Positions </h3>
 Owner @ Prime Lifesteal
