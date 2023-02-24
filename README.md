@@ -13,6 +13,7 @@ Discord — Levitate#3657
 
 <h3> • Current Positions </h3>
 Owner @ Prime Lifesteal
+<br>
 Lead Developer @ Serpent Development
 
 &nbsp;
