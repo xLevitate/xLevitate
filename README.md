@@ -2,7 +2,7 @@
 
 <h3> • About Me </h3>
 
-A 16 year old C/C++, Java and JavaScript developer, with experience in many other languages, always ready to face new challenges, keeping up to date with new technologies, and excited to work on new projects.
+A 17 year old C/C++, Java and JavaScript developer, with experience in many other languages, always ready to face new challenges, keeping up to date with new technologies, and excited to work on new projects.
 
 <h3> • Tech Stack </h3>
 
