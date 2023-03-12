@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=434&height=30&lines=Hey%2C+I'm+Levitate!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&width=434&height=30&lines=Hey%2C+I'm+Levitate!)]
 
 <h3> • About Me </h3>
 
