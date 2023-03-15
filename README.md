@@ -2,7 +2,7 @@
 
 <h3> • About Me </h3>
 
-A 17 year old developer with 6 years of experience in programming, experience in many languages such as C/C++, Java, JavaScript and more, always ready to face new challenges, keeping up to date with new technologies, and excited to work on new projects.
+A 17 year old developer with 7 years of experience in programming, experience in many languages such as C/C++, Java, JavaScript and more, always ready to face new challenges, keeping up to date with new technologies, and excited to work on new projects.
 
 <h3> • Tech Stack </h3>
 
