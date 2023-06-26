@@ -9,7 +9,7 @@ A developer with 5 years of experience in programming, experience in many langua
 ![](https://skillicons.dev/icons?i=html,css,js,ts,cpp,java,bootstrap,mongodb,mysql,sqlite,git,github,rust,tailwindcss,vuejs&perline=6)
 
 <h3> • Contact Me </h3>
-Discord — Levitate#4771
+Discord — levitatedev
 
 <h3> • Current Positions </h3>
 Lead Developer @ Serpent Development
