@@ -11,9 +11,6 @@ A developer with 5 years of experience in programming, experience in many langua
 <h3> • Contact Me </h3>
 Discord — levitatedev
 
-<h3> • Current Positions </h3>
-Lead Developer @ Serpent Development
-
 &nbsp;
 <br>
 *“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” — Bill Gates*
