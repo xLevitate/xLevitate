@@ -6,7 +6,7 @@ A developer with 5 years of experience in programming, experience in many langua
 
 <h3> • Tech Stack </h3>
 
-![](https://skillicons.dev/icons?i=cpp,java,kotlin,html,css,js,ts,mysql,sqlite,git,github,rust,tailwindcss&perline=6)
+![](https://skillicons.dev/icons?i=cpp,java,kotlin,rust,html,css,js,ts,mysql,json,git,github&perline=6)
 
 <h3> • Contact Me </h3>
 Discord — levitatedev
