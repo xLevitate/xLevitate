@@ -2,7 +2,7 @@
 
 <h3> • About Me </h3>
 
-A developer with 5 years of experience in programming, experience in many languages such as C/C++, Java, and more. Always ready to face new challenges, keeping up to date with new technologies, and excited to work on new projects.
+A developer with 6 years of experience in programming, experience in many languages such as C/C++, Java, and more. Always ready to face new challenges, keeping up to date with new technologies, and excited to work on new projects.
 
 <h3> • Tech Stack </h3>
 
