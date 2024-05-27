@@ -10,8 +10,3 @@ A developer with 6 years of experience in programming, experience in many langua
 
 <h3> • Contact Me </h3>
 Discord — levitatedev
-
-&nbsp;
-<br>
-*“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.” — Bill Gates*
-<br>
