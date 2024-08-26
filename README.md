@@ -4,7 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/6831b11d-ae1d-4f0c-a723-269556d5ebde.svg)](https://wakatime.com/@6831b11d-ae1d-4f0c-a723-269556d5ebde)
 
-A developer with 6 years of experience in programming, experience in many languages such as C/C++, Java, and more. Always ready to face new challenges, keeping up to date with new technologies, and excited to work on new projects.
+A computer science student & developer with 6 years of experience in programming, experience in many languages such as C/C++, Java, and more. Always ready to face new challenges, keeping up to date with new technologies, and excited to work on new projects.
 
 <h3> • Tech Stack </h3>
 
