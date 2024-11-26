@@ -8,7 +8,7 @@ A computer science student & developer with 6 years of experience in programming
 
 <h3> • Tech Stack </h3>
 
-![](https://skillicons.dev/icons?i=java,cpp,rust,kotlin,html,css,js,mysql,mongodb,redis,git,github&perline=6)
+![](https://skillicons.dev/icons?i=java,cpp,rust,javascript,typescript,html,css,js,mysql,mongodb,redis,git,github&perline=6)
 
 <h3> • Contact Me </h3>
 Discord — levitatedev
